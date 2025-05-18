@@ -1,1 +1,4 @@
-h1{ background-color: #ccc }
+h1{
+  background-color: #ccc 
+  color: red;
+}
